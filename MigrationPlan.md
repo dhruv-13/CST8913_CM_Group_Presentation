@@ -101,6 +101,7 @@ absolutely necessary.
   Optimize**   performance and conduct cost      ensuring peak performance.
                analysis for future improvements. 
   --------------------------------------------------------------------------
+  ![alt text](image.png)
 
 **Cost and Performance Summary**
 
