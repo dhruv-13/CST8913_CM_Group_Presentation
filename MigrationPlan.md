@@ -1,4 +1,5 @@
-**Comprehensive Plan for Migrating 150 VMs to Google Cloud**
+
+# Comprehensive Plan for Migrating 150 VMs to Google Cloud
 
 This detailed strategy focuses on migrating **150 Windows and Linux VMs** to Google Cloud while addressing the following challenges:
 
