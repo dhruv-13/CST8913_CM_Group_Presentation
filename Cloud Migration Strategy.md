@@ -257,9 +257,7 @@ After the database is live, fine-tune operations and monitor the system:
     -   Document all configurations and operational procedures for
         future reference.
 
-![A graph with blue squares Description automatically
-generated](vertopal_0b38d431f839413189abe255e2825b69/media/image2.png){width="6.268055555555556in"
-height="3.738888888888889in"}
+![Migration Strategy](screenshots/Migration_Strategy.png)
 
 # Compliance and Security Measures
 
