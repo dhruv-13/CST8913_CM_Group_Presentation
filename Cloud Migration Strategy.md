@@ -70,7 +70,7 @@ must ensure data integrity, minimal downtime, and global availability.
 -   **Backup and Recovery**: Continuous backups and point-in-time
     recovery for operational resilience.
 
--   **Integration**: Integration with other systems, such as ERP and
+-   **Integration**: Integration with other systems, such as ERP, Legacy Mainframe System (Payroll and Reporting) and
     public-facing e-commerce applications, using APIs and Cloud Pub/Sub
     for real-time data flow.
 
